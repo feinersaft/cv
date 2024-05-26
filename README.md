@@ -1,8 +1,7 @@
-# Name
-Chris Schmeer
+# Chris Schmeer
 
 ## Erfahrung
-**Full Stack Webentwickler** 2018 bis jetzt
+*Full Stack Webentwickler* 2018 bis jetzt
 SUNZINET GmbH (Köln, Germany)
 * Betreuung und Weiterentwicklung von TYPO3-Systemen
     * Administration von Benutzern
